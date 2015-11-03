@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+body {
+	text-align: right;
+	margin-right: 2px;
+}
+
+ul {
+	list-style-type: none;
+}
+/*div h4 img {
+	float: left;
+	clear: left;
+}*/
+#main_d {
+	text-align: center;
+}
+
+#index{
+	text-align:center;
+	}
